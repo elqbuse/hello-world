@@ -1,2 +1,3 @@
 Some text in a folder
 Edited from Github
+Another line from Github
